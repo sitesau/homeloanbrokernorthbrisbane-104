@@ -1,0 +1,18 @@
+{
+  "wheel_id": 97,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-104",
+  "project": "first-home-buyer-loan-north-brisbane-costs-h-104",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-002",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "first home buyer loan north brisbane costs",
+  "intended_url": "https://first-home-buyer-loan-north-brisbane-costs-h-104.vercel.app/",
+  "links": [
+    {
+      "target_url": "https://first-home-buyer-loan-north-brisbane-h-150.surge.sh/",
+      "anchor": "first home buyer loan north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
